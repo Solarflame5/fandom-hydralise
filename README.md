@@ -9,4 +9,4 @@ It's also worth mentioning that the Fandom wiki is not the official Terraria wik
 ## Installation
 You can get the userstyle from [here](https://userstyles.world/style/4515/fandom-com-hydralize) to use with [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
-Or you can manually import the [hydralize.css](https://github.com/Solarflame5/fandom-hydralise/blob/main/hydralise.css) file to any userstyle manager you prefer.
+Or you can manually import the [hydralize.css](https://github.com/Solarflame5/fandom-hydralize/blob/main/hydralize.css) file to any userstyle manager you prefer.
